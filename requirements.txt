@@ -22,7 +22,7 @@ httpx-retries>=0.4.6
 async_lru==2.1.0
 structlog>=25.5.0
 # Apple Music: gamdl >= 3.8.5 (ships the compiled Rust decrypt/mux engine as abi3 wheels)
-gamdl>=3.8.5
+#gamdl>=3.8.5
 pybase62
 dataclass-click
 inquirerpy
